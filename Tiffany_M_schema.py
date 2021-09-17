@@ -77,3 +77,6 @@ schema = pa.DataFrameSchema({
 
 #Testing the validation of the schema
 schema.validate(target_schema)
+
+#write the taregt schema to local file
+target_schema.to_csv('target_schema.csv')
