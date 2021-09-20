@@ -24,7 +24,7 @@
 
 
 # Dependencies
-- A python IDE, either Spyder, Anaconda, or Visual Studio Code
+- A python IDE, for instancee, Spyder in Anaconda, or Visual Studio Code
 
 
 
