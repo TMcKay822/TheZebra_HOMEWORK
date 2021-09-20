@@ -28,10 +28,9 @@
 
 
 
-What I would have liked to do next time: 
-- Validation tests for the future: 
--     We could consider adding a summary of the data, count of columns, count of rows, average or sum of the float values (Cost Per Clicks) before and after transformation
--     We could come up with a set of rules of what errors we have received in the past when we get these files. 
--         For instance, are there specific campaign IDs to look for and expect each time? 
--         Should there be a set number of characters for each columnn, as in a max number of characters a column can contain? For instance phone number should be 7 digits. 
+## Validation tests for the future: 
+- We could consider adding a summary of the data, count of columns, count of rows, average or sum of the float values (Cost Per Clicks) before and after transformation
+- We could come up with a set of rules of what errors we have received in the past when we get these files. 
+For instance, are there specific campaign IDs to look for and expect each time? 
+-  Should there be a set number of characters for each columnn, as in a max number of characters a column can contain? For instance phone number should be 7 digits. 
 
